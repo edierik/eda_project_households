@@ -1,3 +1,6 @@
+This repository shows a possible solution for the advice of Larry Sanders, who wants to buy a house in King County. You can find more information about this in the `assignment file`. This task was part of the Data Science Bootcamp from Neue Fische.
+
+
 # ds-project-template
 
 Template for creating ds simple projects
